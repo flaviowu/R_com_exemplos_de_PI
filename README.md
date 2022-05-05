@@ -1,4 +1,7 @@
-# R_com_exemplos_de_PI
+# R com exemplos de PI
 
-Repositório criado no curse de extensão "R com exemplos de Política Internacional" pelo IRI-USP.
+Repositório criado no curso de extensão "R com exemplos de Política Internacional" pelo IRI-USP.
 Base de dados fornecido pelo curso.
+
+Abril/2022
+
